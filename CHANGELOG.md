@@ -15,6 +15,11 @@ Increment the:
 
 ## [Unreleased]
 
+## [0.25] 2025-10-06
+
+* [FORMAT] Do not format shelltest
+  [#19](https://github.com/open-telemetry/cpp-build-tools/pull/19)
+
 ## [0.24] 2025-07-20
 
 * Bump actions/checkout from 3 to 4
